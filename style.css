@@ -1,0 +1,27 @@
+#Bedroom{
+    border-radius: 30px;
+    border-color: black;
+}
+#Fruits{
+    border-radius: 30px;
+    border-color: black;
+}
+#TV{
+    border-radius: 30px;
+    border-color: black;
+}
+#Bottles{
+    border-radius: 30px;
+    border-color: black;
+}
+#Desk{
+    border-radius: 30px;
+    border-color: black;
+}
+body{
+    background-color: linear-gradient(#28aaeb 0%,#15ede6 100%);
+}
+h3{
+    text-align: center;
+    color:black;
+}
